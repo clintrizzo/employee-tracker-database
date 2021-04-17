@@ -15,5 +15,9 @@
     "bugs": {
         "url": "https://github.com/clintrizzo/employee-tracker-database/issues"
     },
-    "homepage": "https://github.com/clintrizzo/employee-tracker-database#readme"
+    "homepage": "https://github.com/clintrizzo/employee-tracker-database#readme",
+    "dependencies": {
+        "inquirer": "^8.0.0",
+        "mysql2": "^2.2.5"
+    }
 }
