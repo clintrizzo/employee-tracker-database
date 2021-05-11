@@ -18,6 +18,7 @@
     "homepage": "https://github.com/clintrizzo/employee-tracker-database#readme",
     "dependencies": {
         "chalk": "^4.1.0",
+        "console-table": "^0.1.2",
         "figlet": "^1.5.0",
         "inquirer": "^8.0.0",
         "mysql2": "^2.2.5"
