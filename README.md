@@ -10,3 +10,6 @@ a node.js application that uses user input from inquirer to populate an employee
 
 # running the app
 in the terminal run npm start you will then be asked questions to add delete or update. 
+
+# video
+[employeetracker](https://www.youtube.com/watch?v=ahixbcV90wQ)
